@@ -33,7 +33,7 @@ Halo! Saya adalah seorang **Programmer** & **Content Creator** yang bersemangat 
 💼 [GitHub](https://github.com/Rfshacodeid)\
 🐦 [Twitter](https://twitter.com/gadogado_inc)\
 📷 [Instagram](https://instagram.com/rfashacode.id)\
-📧 Email: [your.email@example.com](mailto\:rfshacoderid@gmail.com)
+📧 Email: [rfshacoderid@gmail.com](mailto\:rfshacoderid@gmail.com)
 
 ---
 
