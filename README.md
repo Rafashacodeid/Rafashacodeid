@@ -1,6 +1,6 @@
 # Halo! Saya [Nama Anda] 🚀
 
-![Banner](https://i.imgur.com/8NfE2v1.jpg)
+![Banner]([https://i.imgur.com/8NfE2v1.jpg](https://imgur.com/cLNHOg0))
 
 ## 👨‍💻 Tentang Saya
 Halo! Saya adalah seorang **Programmer** & **Content Creator** yang bersemangat dalam membangun sesuatu yang luar biasa dan berbagi pengetahuan dengan dunia. Saya mengkhususkan diri dalam **pengembangan web, rekayasa perangkat lunak, dan menciptakan konten menarik** untuk membantu orang lain belajar dan berkembang. 🌟
