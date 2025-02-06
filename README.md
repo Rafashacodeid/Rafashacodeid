@@ -26,14 +26,14 @@ Halo! Saya adalah seorang **Programmer** & **Content Creator** yang bersemangat 
 ## 🎬 Video YouTube Terbaru
 
 🔹 [Membuat Website Animasi Kubus/kotak dengan HTML (tutorial html)](https://youtu.be/NJMbFQfho8o?si=O9A4hdjwdKsUrKjC)\
-🔹 [Tutorial HTML, CSS, dan JavaScript: Membangun Kalkulator Responsif!](https://youtu.be/NJMbFQfho8o?si=pZMHyWt-hOYidQo0)\
+🔹 [Tutorial HTML, CSS, dan JavaScript: Membangun Kalkulator Responsif!](https://youtu.be/NJMbFQfho8o?si=pZMHyWt-hOYidQo0)
 
 ## 📣 Hubungi Saya
 
 💼 [GitHub](https://github.com/Rfshacodeid)\
 🐦 [Twitter](https://twitter.com/gadogado_inc)\
 📷 [Instagram](https://instagram.com/rfashacode.id)\
-📧 Email: [your.email@example.com](mailto\:your.email@example.com)
+📧 Email: [your.email@example.com](mailto\:rfshacoderid@gmail.com)
 
 ---
 
