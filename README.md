@@ -14,6 +14,10 @@ Halo! Saya adalah seorang **Programmer** & **Content Creator** yang bersemangat 
 
 <img src="https://skillicons.dev/icons?i=linux,windows,git,github,gitlab,aws,gcp,vercel,docker,vscode,jetbrains,jira,trello,notion" alt="Tech Stack"/>
 
+## 💻 Bahasa Pemrograman
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,bash,vbs" alt="Programming Languages"/>
+
 ## 📊 Statistik GitHub
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rfshacodeid&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
