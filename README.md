@@ -6,8 +6,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rfshacodeid&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rfshacodeid&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rfshacodeid&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ## 👨‍💻 Tentang Saya
