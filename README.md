@@ -23,12 +23,6 @@ Halo! Saya adalah seorang **Programmer** & **Content Creator** yang bersemangat 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rfshacodeid&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rfshacodeid&theme=tokyonight" alt="GitHub Streak"/>
 
-## 🚀 Proyek Terbaru
-
-🔹 [Portfolio Website](https://github.com/Rfshacodeid/portfolio-website) - Website portofolio pribadi dengan desain modern
-🔹 [WhatsApp Bot](https://github.com/Rfshacodeid/whatsapp-bot) - Bot WhatsApp dengan fitur lengkap
-🔹 [API Restful ExpressJS](https://github.com/Rfshacodeid/api-expressjs) - API sederhana menggunakan ExpressJS
-
 ## 🎬 Video YouTube Terbaru
 
 🔹 [Membuat Website Animasi Kubus/kotak dengan HTML (tutorial html)](https://youtu.be/NJMbFQfho8o?si=O9A4hdjwdKsUrKjC)<br>
