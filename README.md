@@ -1,6 +1,6 @@
 # Halo! Saya [Rafasha Alfiandi] 🚀
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=Rfshacodeid&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 
 ## 👨‍💻 Tentang Saya
 
@@ -12,28 +12,24 @@ Halo! Saya adalah seorang **Programmer** & **Content Creator** yang bersemangat 
 
 ## 🔧 Teknologi & Alat
 
-- **Sistem Operasi:** Linux, macOS, Windows
-- **Kontrol Versi:** Git, GitHub, GitLab
-- **Layanan Cloud:** AWS, Google Cloud, Vercel
-- **Alat Pengembangan:** Docker, VS Code, JetBrains Suite
-- **Manajemen Proyek:** Jira, Trello, Notion
+<img src="https://skillicons.dev/icons?i=linux,windows,git,github,gitlab,aws,gcp,vercel,docker,vscode,jetbrains,jira,trello,notion" alt="Tech Stack"/>
 
 ## 📊 Statistik GitHub
 
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rfshacodeid&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rfshacodeid&theme=tokyonight" alt="GitHub Streak"/>
 
 ## 🎬 Video YouTube Terbaru
 
-🔹 [Membuat Website Animasi Kubus/kotak dengan HTML (tutorial html)](https://youtu.be/NJMbFQfho8o?si=O9A4hdjwdKsUrKjC)\
+🔹 [Membuat Website Animasi Kubus/kotak dengan HTML (tutorial html)](https://youtu.be/NJMbFQfho8o?si=O9A4hdjwdKsUrKjC)<br>
 🔹 [Tutorial HTML, CSS, dan JavaScript: Membangun Kalkulator Responsif!](https://youtu.be/NJMbFQfho8o?si=pZMHyWt-hOYidQo0)
 
 ## 📣 Hubungi Saya
 
-💼 [GitHub](https://github.com/Rfshacodeid)\
-🐦 [Twitter](https://twitter.com/gadogado_inc)\
-📷 [Instagram](https://instagram.com/rfashacode.id)\
-📧 Email: [rfshacoderid@gmail.com](mailto\:rfshacoderid@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Rfshacodeid)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gadogado_inc)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rfashacode.id)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rfshacoderid@gmail.com)
 
 ---
 
