@@ -20,8 +20,11 @@ Halo! Saya adalah seorang **Programmer** & **Content Creator** yang bersemangat 
 
 ## 📊 Statistik GitHub
 
+<img src="https://github-readme-stats.vercel.app/api?username=Rfshacodeid&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rfshacodeid&layout=compact&theme=tokyonight" alt="Most Used Languages"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rfshacodeid&theme=tokyonight" alt="GitHub Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rfshacodeid&theme=tokyonight" alt="Profile Details"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Rfshacodeid&theme=tokyonight&margin-w=10" alt="GitHub Trophies"/>
 
 ## 🎬 Video YouTube Terbaru
 
