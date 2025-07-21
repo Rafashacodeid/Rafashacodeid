@@ -25,7 +25,7 @@ Halo! Saya adalah seorang **Programmer** & **Content Creator** yang bersemangat 
 
 ## 💻 Bahasa Pemrograman
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,bash,vbs,java,c,cpp,php,ruby,go" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,bash,vbs,java,c,cpp,php" alt="Programming Languages"/>
 </p>
 
 ---
