@@ -1,53 +1,52 @@
-# Halo! Saya [Rafasha Alfiandi] 🚀
+# 👋 Halo! Saya [Rafasha Alfiandi] 🚀
 
 <p align="center">
   <img src="Dokumen/logo.png" alt="Logo Saya" width="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rfshacodeid&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rfshacodeid&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats"/>
 </p>
 
 ## 👨‍💻 Tentang Saya
 
-Halo! Saya adalah seorang **Programmer** & **Content Creator** yang bersemangat dalam membangun sesuatu yang luar biasa dan berbagi pengetahuan dengan dunia. Saya mengkhususkan diri dalam **pengembangan web, rekayasa perangkat lunak, dan menciptakan konten menarik** untuk membantu orang lain belajar dan berkembang. 🌟
+Saya seorang **Programmer** & **Content Creator** yang suka ngulik teknologi, bikin project seru, dan berbagi pengetahuan lewat konten edukatif & tutorial.
 
-- 🎥 Saya membuat tutorial coding dan konten teknologi di [YouTube](https://youtube.com/Rafashaalfiandi)
-- 💡 Saya berbagi wawasan, tips, dan trik tentang pemrograman dan pengembangan
-- 🚀 Selalu belajar dan mengeksplorasi teknologi baru
+- 🎥 Aktif bikin konten di [YouTube](https://youtube.com/@Rafashaalfiandi)
+- 💻 Fokus di **web dev**, **tools hacking**, dan **pengembangan software**
+- 🚀 Terus belajar hal baru & eksplor teknologi masa depan
 
 ---
 
-## 🔧 Teknologi & Alat
+## 🛠️ Tools & Teknologi
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,git,github,gitlab,aws,gcp,vercel,docker,vscode,jetbrains,jira,trello,notion" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=linux,windows,git,github,gitlab,vercel,aws,gcp,docker,vscode,idea,figma,notion,postman" alt="Tools & Platform"/>
 </p>
 
 ## 💻 Bahasa Pemrograman
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,bash,vbs,java,c,cpp,php" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,php,c,cpp,java,bash,vbs" alt="Languages"/>
 </p>
 
 ---
 
 ## 📊 Statistik GitHub
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rfshacodeid&theme=tokyonight" alt="Profile Details"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rfshacodeid&theme=tokyonight" alt="Most Commit Language"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rfshacodeid&theme=tokyonight&layout=donut" alt="Most Used Languages (Donut Chart)"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rfshacodeid&theme=tokyonight" alt="Detail Profil"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rfshacodeid&theme=tokyonight" alt="Bahasa Paling Sering Digunakan"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rfshacodeid&theme=tokyonight&layout=donut" alt="Most Used Languages"/>
   <img src="https://github-profile-trophy.vercel.app/?username=Rfshacodeid&theme=tokyonight&margin-w=10" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-## 🎬 Video YouTube Terbaru
-✅ [Membuat Website Animasi Kubus/kotak dengan HTML (tutorial html)](https://youtu.be/NJMbFQfho8o?si=O9A4hdjwdKsUrKjC)<br>
-✅ [Tutorial HTML, CSS, dan JavaScript: Membangun Kalkulator Responsif!](https://youtu.be/NJMbFQfho8o?si=pZMHyWt-hOYidQo0)
+## 🎬 Video Terbaru YouTube
+✅ [Membuat Website Animasi Kubus/kotak dengan HTML (Tutorial)](https://youtu.be/NJMbFQfho8o)<br>
+✅ [Build Kalkulator Responsif - HTML, CSS, JS](https://youtu.be/NJMbFQfho8o)
 
 ---
 
-## 📣 Hubungi Saya
-Jika ingin menghubungi saya secara langsung, bisa melalui:
+## 📣 Kontak Saya
 
 <p align="center">
   <a href="mailto:rfshacoderid@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -57,7 +56,6 @@ Jika ingin menghubungi saya secara langsung, bisa melalui:
 ---
 
 ## 🌐 Sosial Media
-Tetap terhubung dan ikuti saya di berbagai platform berikut:
 
 <p align="center">
   <a href="https://github.com/Rfshacodeid"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
