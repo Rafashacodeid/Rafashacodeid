@@ -1,4 +1,4 @@
-# 👋 Halo! Saya [Rafasha Alfiandi] 🚀
+# 👋 Halo! Saya Rafasha Alfiandi 🚀
 
 <p align="center">
   <img src="Dokumen/logo.png" alt="Logo Saya" width="150"/>
